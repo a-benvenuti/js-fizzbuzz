@@ -13,3 +13,7 @@ body{
 h1{
   text-align: center;
 }
+#lista_array{
+  margin-left: 100px;
+  list-style-type: none;
+}
